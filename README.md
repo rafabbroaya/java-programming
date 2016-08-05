@@ -1,2 +1,3 @@
 # java-programming
-Java programming
+
+Java Projects for study
